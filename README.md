@@ -8,7 +8,9 @@ These plugins were created by a diverse team of programmers that changed in memb
 # Champion Crusader 🏰
 Version: **1.16 - 1.18.2**\
 Functionality: **Classes, Arenas, PVE Components, Capture Points, Respawn System**
-> Editing Info...
+> This game was our first ever developed plugin on the server. It was a great learning opportunity for myself as it was my first large scale plugin. Because of this, a lot of the code was over simplified since I had to use it as a teaching model for the developers who were learning the Spigot library. 
+
+This program is definitely the one I’ll be spending a lot of time optimizing and refactoring in a later Server Update. It currently utilizes a lot of HashMaps and Data Packs uploaded onto the server that I want to rewrite as OOP instead. As a good practice, I’ve been slowly progressing through and commenting on every confusing or complicated aspect of the code. This plugin also implements the LuckPerms API inside itself so we could change player teams using our own set team command. Later we plan to program a Bungee API plugin that can keep track of all teams with loads of functionality so all plugins can access that instead.
 
 # Crypt Crawler 🔦
 Version: **1.18.2**\
