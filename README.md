@@ -15,7 +15,11 @@ This program is definitely the one I’ll be spending a lot of time optimizing a
 # Crypt Crawler 🔦
 Version: **1.18.2**\
 Functionality: **Crafting, Bosses, PVE Components, Custom Items, Timer, Respawn System**
-> Editing Info...
+> Crypt Crawler is currently our most connected plugin as it utilizes many other Open Source plugins to be able to work very smoothly. It took a lot of time to properly connect the different plugins together especially when taking consideration of the need for compatibility in our custom code.
+
+*This plugin is currently working alongside Mythic Mobs, Dungeons XL, Craft Enhance, and Luck Perms to be able to function properly.*
+
+Mythic Mobs allows us to script our own bosses with enhanced functionality and loot tables that we are currently using for the boss and other entities. Craft Enhance just lets us edit the legacy crafting system and add our own custom designs. Dungeons XL is used with our own modeled dungeon to properly set up repeatable instances that will run when the game starts. This way every team is capable of running their own instance without interfering with the original copy or other team. Our plugin uses Luck Perms with OOP to properly incorporate teams that connect in our plugin to the Dungeons XL API. Some parts currently run through the console and that is the biggest part I want to improve later on. 
 
 # Knockout 🥊
 Version: **1.18.2**\
