@@ -12,6 +12,8 @@ Functionality: **Classes, Arenas, PVE Components, Capture Points, Respawn System
 
 This program is definitely the one I’ll be spending a lot of time optimizing and refactoring in a later Server Update. It currently utilizes a lot of HashMaps and Data Packs uploaded onto the server that I want to rewrite as OOP instead. As a good practice, I’ve been slowly progressing through and commenting on every confusing or complicated aspect of the code. This plugin also implements the LuckPerms API inside itself so we could change player teams using our own set team command. Later we plan to program a Bungee API plugin that can keep track of all teams with loads of functionality so all plugins can access that instead.
 
+![Champion Crusader](/Images/champ.png)
+
 # Crypt Crawler 🔦
 Version: **1.18.2**\
 Functionality: **Crafting, Bosses, PVE Components, Custom Items, Timer, Respawn System**
@@ -21,15 +23,21 @@ Functionality: **Crafting, Bosses, PVE Components, Custom Items, Timer, Respawn 
 
 Mythic Mobs allows us to script our own bosses with enhanced functionality and loot tables that we are currently using for the boss and other entities. Craft Enhance just lets us edit the legacy crafting system and add our own custom designs. Dungeons XL is used with our own modeled dungeon to properly set up repeatable instances that will run when the game starts. This way every team is capable of running their own instance without interfering with the original copy or other team. Our plugin uses Luck Perms with OOP to properly incorporate teams that connect in our plugin to the Dungeons XL API. Some parts currently run through the console and that is the biggest part I want to improve later on. 
 
+![Crypt Crawler](/Images/crypt.png)
+
 # Knockout 🥊
 Version: **1.18.2**\
 Functionality: **World Edit, Power-Ups, Custom Panels, Revival System**
 > Editing Info...
 
+![Knockout](/Images/knockout.png)
+
 # Trades and Ghouls 🧟‍♂️
 Version: **1.18.2**\
 Functionality: **PVE Waves, Vendor Interface, Purchasable Buffs and Equipment, Revival System**
 > In Progress...
+
+![Trades and Ghouls](/Images/tag.png)
 
 # Clutch City 🏙
 > Future Project...
