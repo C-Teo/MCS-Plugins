@@ -28,7 +28,9 @@ Mythic Mobs allows us to script our own bosses with enhanced functionality and l
 # Knockout 🥊
 Version: **1.18.2**\
 Functionality: **World Edit, Power-Ups, Custom Panels, Revival System**
-> Editing Info...
+> Knockout was our smoothest running game in its first Alpha test with near zero bugs and only a couple balance changes needed. It was also the only plugin that was developed by only one person, myself. By this point I had already spent a lot of time practicing Spigot and had developed a good system of organization.
+
+For this plugin we built a variety of floors for the game and saved their location using a Map object that was custom coded. It currently depends on the WorldEdit (WE) API for selecting, copying, and pasting the saved maps into the Arena location. The only thing I’d like to optimize about Knockout is how it communicates with the API. Currently it sends the commands through the console which means I had to delay future commands to compensate for any Tick (Memory) lag. I want to instead develop my understanding of the WorldEdit API and directly link the plugin and it together.
 
 ![Knockout](/Images/knockout.png)
 
