@@ -23,7 +23,7 @@ Functionality: **Crafting, Bosses, PVE Components, Custom Items, Timer, Respawn 
 
 Mythic Mobs allows us to script our own bosses with enhanced functionality and loot tables that we are currently using for the boss and other entities. Craft Enhance just lets us edit the legacy crafting system and add our own custom designs. Dungeons XL is used with our own modeled dungeon to properly set up repeatable instances that will run when the game starts. This way every team is capable of running their own instance without interfering with the original copy or other team. Our plugin uses Luck Perms with OOP to properly incorporate teams that connect in our plugin to the Dungeons XL API. Some parts currently run through the console and that is the biggest part I want to improve later on. 
 
-![Crypt Crawler](/Images/crypt.png)
+![Crypt Crawler](/Images/cryptcrawler.png)
 
 # Knockout 🥊
 Version: **1.18.2**\
