@@ -4,8 +4,8 @@ public class Placeholder {
          * @author Teo
          * This is a placeholder Java file so the repository is 
          * marked as a java repo. Even though there is no code
-         * in this repo, it is still purposed to explain the
-         * the components of java applications.
+         * in this repo, it's purpose is to explain the
+         * components of the java applications.
          */
     }
 }
